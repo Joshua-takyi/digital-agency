@@ -3,7 +3,7 @@ import netflixLogo from "../../assets/Netflix.svg";
 import notionLogo from "../../assets/Notion.svg";
 import dribbleLogo from "../../assets/dribble.svg";
 import paypalLogo from "../../assets/PayPal.svg";
-import appleLogo from "../../assets/Apple.svg";
+import siliconAppleLogo from "../../assets/apple.svg";
 
 export default function Companies() {
 	return (
@@ -62,6 +62,6 @@ const CompaniesLogos = [
 	{
 		id: 5,
 		name: "apple",
-		logo: appleLogo,
+		logo: siliconAppleLogo,
 	},
 ];
