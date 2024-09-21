@@ -1,9 +1,10 @@
 import Image from "next/image";
-import netflixLogo from "@/assets/Netflix.svg";
-import notionLogo from "@/assets/Notion.svg";
-import dribbleLogo from "@/assets/dribble.svg";
-import paypalLogo from "@/assets/PayPal.svg";
-import appleLogo from "@/assets/Apple.svg";
+import netflixLogo from "../../assets/Netflix.svg";
+import notionLogo from "../../assets/Notion.svg";
+import dribbleLogo from "../../assets/dribble.svg";
+import paypalLogo from "../../assets/PayPal.svg";
+import appleLogo from "../../assets/Apple.svg";
+
 export default function Companies() {
 	return (
 		<section className="p-2 md:py-10 py-5   ">
