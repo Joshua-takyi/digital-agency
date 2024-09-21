@@ -37,10 +37,10 @@ export default function Footer() {
 				>
 					© {currentYear} Digital Agency. All rights reserved. <br />
 					<Link
-						href="tel: +2330248115326"
+						href="tel: +2330504159861"
 						className="text-yellow-500 underline"
 					>
-						tel: +2330248115326
+						tel: +2330504159861
 					</Link>
 				</motion.div>
 			</div>
